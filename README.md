@@ -28,7 +28,7 @@ Installation & Setup
 
 1. Clone the Repository
 
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Saifza/flask-house-price-api
 cd your-repo
 
 2. Set Up a Virtual Environment (Optional, Recommended)
@@ -116,13 +116,13 @@ git push -u origin main
 
 Notes
 
-Ensure xgboost_model.joblib is included in the project folder.
+* Ensure xgboost_model.joblib is included in the project folder.
 
-Use Postman or curl to test the API.
+* Use Postman or curl to test the API.
 
-Modify .gitignore to prevent committing unnecessary files.
+* Modify .gitignore to prevent committing unnecessary files.
 
 License
 
-This project is open-source and available under the MIT License.
+* This project is open-source and available under the MIT License.
 
